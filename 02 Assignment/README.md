@@ -3,6 +3,8 @@ Virtual CPU
 
 Create a virtual CPU optimised for stack operations.
 
+Deadline is Tuesday 14. at 12:00.
+
 ## Example CPU
 
 The virtual CPU has four registers, one flag, and a memory of 64 bytes.
