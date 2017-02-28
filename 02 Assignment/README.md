@@ -1,10 +1,15 @@
 Virtual CPU
 ===========
 
+Create a virtual CPU optimised for stack operations.
+
+Deadline is Tuesday 14. at 12:00.
+
+## Example CPU
+
 The virtual CPU has four registers, one flag, and a memory of 64 bytes.
 Instructions are all 8 bit.
-The CPU is optimised for stack operations,
-there are no instructions for direct memory access.
+There are no instructions for direct memory access.
 
 The virtual cpu can be run with
 ```shell
