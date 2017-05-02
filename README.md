@@ -1,5 +1,12 @@
 # general
-General information about the course
+This is a
+
+## Study points
+To attend the exam, you **need at least 17** (~80% of the total number) study points. The study points are listed here:
+[https://docs.google.com/spreadsheets/d/1SAE1xZdOu8FmvlilVS5J2CjYqTFjEbWsyA9dQBhX5KE/edit?usp=sharing](Study points at Google Drive)
+
+## Reading material
+Haskell: [http://learnyouahaskell.com/chapters](Learn you a Haskell for great good!). Please read chapter 1-3
 
 # Lisp tips and tricks
 **Floating point overflow**: This error occurs when a number cannot contain enough
