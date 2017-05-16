@@ -23,7 +23,10 @@ The course assignments are listed here (corresponding to the [Google drive sheet
 | 8 | **Haskell webserver** with support for the chat protocol in assignment 6 |
 
 # Exam 
-You will be examinated orally. You will have to present one of the four major assignments (marked in bold above). So out of the four assignments, you have to pick one. From there we will have a discussion about the course content. We will naturally ask into other topics, but the presentation will be the starting point.
+You will be examinated orally. You will have to present one of the four major assignments (marked in bold above). So out of the four assignments, you have to pick one. From there we will have a discussion about the course content. You have **10 minutes** to present your assignment. Then we will ask you questions for around 7-10 minutes. We will naturally ask into other topics, but the presentation will be the starting point.
+
+The questions for the exams are published and can be found here: [https://github.com/cphbus-functional-programming/general/blob/master/exam.md](https://github.com/cphbus-functional-programming/general/blob/master/exam.md)
+
 
 # Lisp tips and tricks
 **Floating point overflow**: This error occurs when a number cannot contain enough
